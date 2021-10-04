@@ -1,4 +1,4 @@
-# An application of the equivarient message passing network, PaiNN [[1]](#1), to catalysis and comparison against state-of-the-art ML algorithms (DimeNet++[[2]](#2) to predict energy / forces / positions:
+An application of the equivarient message passing network, PaiNN [[1]](#1), to catalysis and comparison against state-of-the-art ML algorithms (DimeNet++[[2]](#2) to predict energy / forces / positions:
 ![PaiNN_architecture](https://user-images.githubusercontent.com/75517225/135817648-ee6e7354-db4a-4af6-8f42-e3038075b42f.png)
 
 The reference data was obtained from the Open Catalyst 2020 (OC20) [[3]](#3),[[4]](#4).
